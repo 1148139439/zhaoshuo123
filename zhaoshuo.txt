@@ -1,2 +1,2 @@
-Git is a zhaoshuo version control system.
+Git is a zhaoshuoshuozhao version control system.
 Git is free software.
